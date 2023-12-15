@@ -1,3 +1,5 @@
+This repository has been archived. The work continues at https://github.com/Phala-Network/phat-quickjs.
+
 # Sidevm QuickJS
 
 The JS Runtime that powers the [`pink::ext().js_eval()`](https://docs.rs/pink-extension/latest/pink_extension/chain_extension/trait.PinkExtBackend.html#tymethod.js_eval) of pink-extension.
